@@ -1,4 +1,5 @@
-<img width="1400" height="615" alt="image" src="https://github.com/user-attachments/assets/15eb9ab7-1174-4564-ab86-a1626c888a3b" />
+<img width="1400" height="615" alt="image" src="https://github.com/user-attachments/assets/45fefeef-5325-4539-89ae-3cc375bceed5" />
+
 
 ###  Lambda Serverless API | AWS
 This blueprint provisions a complete serverless API stack on AWS, combining compute, routing, and data persistence with event-driven automation
